@@ -1,7 +1,7 @@
 # vitest-mocking
 Debugging Vitest mocking
 
-Please see the `TODO:` comments.
+This demo actually works... :)
 
 ## Install
 
